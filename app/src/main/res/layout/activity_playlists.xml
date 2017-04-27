@@ -12,10 +12,19 @@
     <TextView
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        android:id="@+id/playlist_text"
+        android:id="@+id/playlist_purpose"
         android:textColor="@color/text_color"
-        android:text="@string/music_library"
+        android:text="@string/playlist_purpose"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/playlist_hurdle"
+        android:textColor="@color/text_color"
+        android:text="@string/playlist_hurdles"
         android:padding="@dimen/activity_horizontal_margin"
         android:layout_gravity="center_horizontal"
-        android:textAppearance="?android:textAppearanceMedium"/>
+        android:lineSpacingExtra="5dp"/>
 </LinearLayout>

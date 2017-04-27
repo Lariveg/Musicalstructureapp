@@ -11,22 +11,18 @@
 
     <!--Playlists strings-->
     <string name="playlist_purpose">This activity will show CardViews with all the playlists that the user has</string>
-    <string name="playlist_hurdles">The image from the CardView consists of more smaller images from the artists in that playlists. An algorithm that searches the internet for the artists pictures would have to be implemented. </string>
+    <string name="playlist_hurdles">The image from the CardView consists of more smaller images from the artists in that playlists.\nAn algorithm that searches the internet for the artists pictures would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode. \nIf you press on the CardView then the SongActivity will start with all the songs from that playlist. </string>
 
     <!--Artists strings-->
     <string name="artist_purpose">This activity will show CardViews with all the artists from the songs</string>
-    <string name="artist_hurdles">Artists</string>
+    <string name="artist_hurdles">An algorithm that searches the internet for the artists pictures would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode.\nIf you press on the CardView, then the SongActivity will start with all the songs from that artist.</string>
 
     <!--Albums strings-->
     <string name="album_purpose">This activity will show CardViews with all the albums from the songs</string>
-    <string name="album_hurdle">Artists</string>
+    <string name="album_hurdle">An algorithm that searches the internet for pictures of the albums would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode. \nIf you press on the CardView, then the SongActivity will start with all the songs from that album.</string>
 
     <!--Songs strings-->
-    <string name="song_purpose">This activity will show all the songs that the user has</string>
-    <string name="song_hurdle">Artists</string>
-
-    <!--Now Playing strings-->
-    <string name="playing_purpose">This activity will show the playing now screen</string>
-    <string name="playing_hurdle">Artists</string>
+    <string name="song_purpose">This activity will show a list with all the songs that the user has. It has also a search song bar. </string>
+    <string name="song_hurdle">A search song algorithm would have to be written, in order to search for songs in the users library. Also, when the user will press play on a song in the list, then a media player with now playing will appear. </string>
 
 </resources>

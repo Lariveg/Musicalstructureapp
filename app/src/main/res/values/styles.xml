@@ -19,5 +19,14 @@
         <item name="android:textAppearance">?android:textAppearanceMedium</item>
     </style>
 
+    <!-- Style for the TextViews in the other activities -->
+    <style name="TextsStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/activity_horizontal_margin</item>
+        <item name="android:textColor">@color/text_color</item>
+        <item name="android:lineSpacingExtra">@dimen/line_spacing</item>
+        <item name="android:textSize">@dimen/line_spacing</item>
+    </style>
 
 </resources>

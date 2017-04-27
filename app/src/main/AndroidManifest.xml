@@ -28,7 +28,6 @@
         <activity
             android:name=".SongsActivity"
             android:label="@string/songs_category"></activity>
-        <activity android:name=".NowPlayingActivity"></activity>
     </application>
 
 </manifest>
