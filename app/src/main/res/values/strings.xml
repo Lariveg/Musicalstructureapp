@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Musical structure app</string>
+
+    <!--Main Activity title-->
+    <string name="music_library">Music Library</string>
+    <!--Category strings-->
+    <string name="playlist_category">Playlists</string>
+    <string name="artists_category">Artists</string>
+    <string name="albums_category">Albums</string>
+    <string name="songs_category">Songs</string>
+
+    <!--Playlists strings-->
+    <string name="playlist_purpose">This activity will show CardViews with all the playlists that the user has</string>
+    <string name="playlist_hurdles">The image from the CardView consists of more smaller images from the artists in that playlists. An algorithm that searches the internet for the artists pictures would have to be implemented. </string>
+
+    <!--Artists strings-->
+    <string name="artist_purpose">This activity will show CardViews with all the artists from the songs</string>
+    <string name="artist_hurdles">Artists</string>
+
+    <!--Albums strings-->
+    <string name="album_purpose">This activity will show CardViews with all the albums from the songs</string>
+    <string name="album_hurdle">Artists</string>
+
+    <!--Songs strings-->
+    <string name="song_purpose">This activity will show all the songs that the user has</string>
+    <string name="song_hurdle">Artists</string>
+
+    <!--Now Playing strings-->
+    <string name="playing_purpose">This activity will show the playing now screen</string>
+    <string name="playing_hurdle">Artists</string>
+
+</resources>
