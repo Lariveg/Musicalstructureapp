@@ -3,26 +3,37 @@
 
     <!--Main Activity title-->
     <string name="music_library">Music Library</string>
+
     <!--Category strings-->
     <string name="playlist_category">Playlists</string>
     <string name="artists_category">Artists</string>
     <string name="albums_category">Albums</string>
     <string name="songs_category">Songs</string>
 
+    <!--Button strings-->
+    <string name="back_btn">Back</string>
+    <string name="play_btn">Play</string>
+
+    <!--CardView content strings-->
+    <string name="playlist_title">Playlist Title</string>
+    <string name="album_title">Album title</string>
+    <string name="artist_title">Artist title</string>
+    <string name="song_title">Song title</string>
+
     <!--Playlists strings-->
     <string name="playlist_purpose">This activity will show CardViews with all the playlists that the user has</string>
-    <string name="playlist_hurdles">The image from the CardView consists of more smaller images from the artists in that playlists.\nAn algorithm that searches the internet for the artists pictures would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode. \nIf you press on the CardView then the SongActivity will start with all the songs from that playlist. </string>
+    <string name="playlist_hurdles">The image from the CardView consists of more smaller images from the artists in that playlists.\nAn algorithm that searches the internet for the artist\'s pictures in a certain size would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode. \nIf you press on the CardView then the SongActivity will start with all the songs from that playlist. </string>
 
     <!--Artists strings-->
     <string name="artist_purpose">This activity will show CardViews with all the artists from the songs</string>
-    <string name="artist_hurdles">An algorithm that searches the internet for the artists pictures would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode.\nIf you press on the CardView, then the SongActivity will start with all the songs from that artist.</string>
+    <string name="artist_hurdles">An algorithm that searches the internet for the artist\'s pictures in a certain size would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode.\nIf you press on the CardView, then the SongActivity will start with all the songs from that artist.</string>
 
     <!--Albums strings-->
     <string name="album_purpose">This activity will show CardViews with all the albums from the songs</string>
-    <string name="album_hurdle">An algorithm that searches the internet for pictures of the albums would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode. \nIf you press on the CardView, then the SongActivity will start with all the songs from that album.</string>
+    <string name="album_hurdle">An algorithm that searches the internet for pictures of the albums in a certain size would have to be implemented.\nThe number of CardViews per row will have to be responsive to the screen of the device or the portrait/landscape mode. \nIf you press on the CardView, then the SongActivity will start with all the songs from that album.</string>
 
     <!--Songs strings-->
     <string name="song_purpose">This activity will show a list with all the songs that the user has. It has also a search song bar. </string>
-    <string name="song_hurdle">A search song algorithm would have to be written, in order to search for songs in the users library. Also, when the user will press play on a song in the list, then a media player with now playing will appear. </string>
+    <string name="song_hurdles">A search song algorithm would have to be written, in order to search for songs in the users library. Also, when the user will press play on a song in the list, then a media player with now playing will appear. </string>
 
 </resources>
