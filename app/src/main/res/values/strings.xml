@@ -34,6 +34,6 @@
 
     <!--Songs strings-->
     <string name="song_purpose">This activity will show a list with all the songs that the user has. It has also a search song bar. </string>
-    <string name="song_hurdles">A search song algorithm would have to be written, in order to search for songs in the users library. Also, when the user will press play on a song in the list, then a media player with now playing will appear. </string>
+    <string name="song_hurdles">A search song algorithm would have to be written, in order to search for songs in the users library. Also, when the user will press play on a song in the list, then a media player with now playing will appear on the same screen. </string>
 
 </resources>

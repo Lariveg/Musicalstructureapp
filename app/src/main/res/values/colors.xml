@@ -7,6 +7,10 @@
     <color name="text_color">#212121</color>
     <color name="main_background">#FAFAFA</color>
     <color name="card_view_background">#FFFDE7</color>
+    <color name="btn_background">#FFCC80</color>
+    <color name="btn_stroke">#FFA726</color>
+
+    <!--Category colors-->
     <color name="playlists_category">#6A1B9A</color>
     <color name="artists_category">#EF6C00</color>
     <color name="albums_category">#1565C0</color>

@@ -15,6 +15,13 @@
             android:text="@string/song_purpose"
             style="@style/TextsStyle" />
 
+        <Button
+            android:id="@+id/btn_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/play_btn"
+            style="@style/ButtonStyle"/>
+
         <TextView
             android:id="@+id/playlist_hurdle"
             android:text="@string/song_hurdles"
